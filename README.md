@@ -1,2 +1,2 @@
 # SEEM2460
-CUHK SEEM2460 23-24 Term 2
+CUHK 2023-2024 Term 2 SEEM2460 Introduction to Data Science
