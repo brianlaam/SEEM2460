@@ -1,0 +1,19 @@
+@RELATION species
+
+@ATTRIBUTE toothed {True, False}
+@ATTRIBUTE legs {True, False}
+@ATTRIBUTE species {Mammal, Reptile}
+
+@DATA
+True, True, Mammal
+False, True, Reptile
+True, True, Mammal
+True, False, Reptile
+False, True, Mammal
+True, False, Reptile
+True, True, Mammal
+False, True, Reptile
+True, False, Reptile
+True, True, Mammal
+False, True, Reptile
+False, False, Reptile
